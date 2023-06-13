@@ -35,7 +35,7 @@ ReactJS and VueJS
 ## Operating System
 
 - <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/linux-icon.svg" alt="Linux" width="15" height="15"> Linux
-- 
+
 - <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/windows-icon.svg" alt="Windows" width="15" height="15"> Windows
 
 
